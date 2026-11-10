@@ -1,1 +1,5 @@
-
+id_ventas,fecha,id_cliente,producto,cantidad,precio_unitario
+1,2026-11-10,101,Cocina,2,550.00
+2,2026-11-11,102,Telefono,3,600.00
+3,2026-11-12,103,Lapto,1,1000.00
+4,2026-11-13,104,audífonos,1,5.00
