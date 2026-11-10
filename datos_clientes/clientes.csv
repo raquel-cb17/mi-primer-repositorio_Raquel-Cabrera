@@ -1,1 +1,5 @@
-
+id_clientes,nombre,apellido,correo,ciudad,telefono
+101,juan,aguirre,juan777C@gmail.com,Colimes,0934770420
+102,Teresa,Lopéz,LopézTere82@gmail.com,Daule,09324274289
+103,Jeremias,Ruguel,JereRU09@gmail.com,Guayaquíl,0954357435
+104,Hector,Goméz,Hector18z@gmail.com,Salinas,0957394579
